@@ -1,0 +1,9 @@
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.Tests.dll
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.Tests.pdb
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.dll
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\MvcMusicStore.pdb
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.dll
+C:\Users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore.Tests\obj\Debug\MvcMusicStore.Tests.pdb
