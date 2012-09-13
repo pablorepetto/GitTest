@@ -13,6 +13,7 @@ namespace MvcMusicStore.Controllers
 
         // 
         // GET: /Store/ 
+		//TEST
         public ActionResult Index()
         {
             var genres = storeDB.Genres.ToList();
