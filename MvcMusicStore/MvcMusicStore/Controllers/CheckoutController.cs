@@ -81,6 +81,12 @@ namespace MvcMusicStore.Controllers
                 return View("Error");
             }
         }
+		
+
+        public ActionResult DummyAction()
+        {
+            return New EmptyResult();
+        }
 
     }
 }
