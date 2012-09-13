@@ -7,3 +7,11 @@ c:\users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMu
 c:\users\pablo.repetto\documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
 C:\Users\pablo.repetto\Documents\Visual Studio 2010\Projects\MvcMusicStore\MvcMusicStore\bin\nunit.framework.dll
 C:\Users\pablo.repetto\Documents\Visual Studio 2010\Projects\MvcMusicStore\MvcMusicStore\bin\nunit.framework.xml
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\bin\nunit.framework.dll
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\bin\nunit.framework.xml
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Temp\Git2\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
