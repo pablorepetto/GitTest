@@ -13,6 +13,8 @@ namespace MvcMusicStore.Controllers
         //
         // GET: /Home/
 
+        //This is great!!
+
         //public ActionResult Index()
         //{
         //    return View();
